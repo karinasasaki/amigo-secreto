@@ -6,6 +6,8 @@
 
 ## 💻 Sobre o projeto
 
+<img src="https://github.com/user-attachments/assets/341b5752-22ea-4f34-a128-eceecf5842e7" width="30%" alt="Badge" title="Badge" align="right"/>
+
 A aplicação permite os usuários inserirem nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
 
 Challenge promovido pela [Oracle Next Education + Alura](https://www.oracle.com/br/education/oracle-next-education/).
